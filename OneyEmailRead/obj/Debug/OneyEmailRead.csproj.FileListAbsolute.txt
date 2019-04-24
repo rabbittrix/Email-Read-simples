@@ -1,0 +1,12 @@
+D:\Unipartner\OneyEmailRead\OneyEmailRead\bin\Debug\OneyEmailRead.exe.config
+D:\Unipartner\OneyEmailRead\OneyEmailRead\bin\Debug\OneyEmailRead.exe
+D:\Unipartner\OneyEmailRead\OneyEmailRead\bin\Debug\OneyEmailRead.pdb
+D:\Unipartner\OneyEmailRead\OneyEmailRead\bin\Debug\OpenPop.dll
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.csprojAssemblyReference.cache
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.Form1.resources
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.Properties.Resources.resources
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.csproj.GenerateResource.cache
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.csproj.CoreCompileInputs.cache
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.csproj.CopyComplete
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.exe
+D:\Unipartner\OneyEmailRead\OneyEmailRead\obj\Debug\OneyEmailRead.pdb
